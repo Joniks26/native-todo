@@ -1,0 +1,5 @@
+export const THEME = {
+    MAIN_COLOR: '#00BFFF',
+    DELETE_COLOR: '#FF4500',
+    PADDING_HORIZONTAL: 30,
+}
