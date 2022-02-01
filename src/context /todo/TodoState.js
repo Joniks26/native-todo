@@ -32,7 +32,7 @@ export const TodoState = ({children}) => {
                 {title})
             dispatch({type: ADD_TODO, title, id: data.name})
         } catch (e) {
-            showError('Error')
+            showError('Error.')
         }
     }
 
